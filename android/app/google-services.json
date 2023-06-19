@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "725859545069",
+    "firebase_url": "https://redonto-951d8-default-rtdb.firebaseio.com",
+    "project_id": "redonto-951d8",
+    "storage_bucket": "redonto-951d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725859545069:android:687850ab4395c3a14881e4",
+        "android_client_info": {
+          "package_name": "br.com.minhaempresa.redonto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725859545069-pcqmof01dgqimcme71h77hit7okugtcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.minhaempresa.redonto",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9_l_GVsNm8cIQu7a2YVVCXI0wmXXabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725859545069-cbja24pj2ft7vv4jhude5b8e6qet7jmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redontoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725859545069:android:ac4164b51d994b614881e4",
+        "android_client_info": {
+          "package_name": "com.example.redontoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9_l_GVsNm8cIQu7a2YVVCXI0wmXXabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725859545069-cbja24pj2ft7vv4jhude5b8e6qet7jmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redontoapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725859545069:android:c15af8760df81e094881e4",
+        "android_client_info": {
+          "package_name": "com.mycompany.redonto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725859545069-0vbacqjopn4flcm6vb66do41g8aui7fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.redonto",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9_l_GVsNm8cIQu7a2YVVCXI0wmXXabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725859545069-it9raaqe3pg18uf3v516mfug3v8ipt0v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725859545069-cbja24pj2ft7vv4jhude5b8e6qet7jmn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.redontoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
